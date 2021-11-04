@@ -2,7 +2,7 @@
 
 ## Description
 
-Pre-Generating A Minecraft World with a datapack
+Pre-Generating A Minecraft World with a datapack for 1.18
 
 
 --------
